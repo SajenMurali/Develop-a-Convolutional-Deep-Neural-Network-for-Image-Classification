@@ -204,7 +204,7 @@ predict_image(model, image_index=190, dataset=test_dataset)
 ### OUTPUT
 
 ## Training Loss per Epoch
-Screenshot 2026-03-15 204850.png
+[Screenshot 2026-03-15 204850.png](https://github.com/SajenMurali/Develop-a-Convolutional-Deep-Neural-Network-for-Image-Classification/blob/45eaa99ad35c15cb0b25c53eb67adc303886803d/Screenshot%202026-03-15%20204850.png)
 
 ## Confusion Matrix
 
