@@ -204,17 +204,17 @@ predict_image(model, image_index=190, dataset=test_dataset)
 ### OUTPUT
 
 ## Training Loss per Epoch
-file:///C:/Users/admin/OneDrive/Desktop/WhatsApp%20Image%202026-03-15%20at%201.37.52%20PM.jpeg
+
 ## Confusion Matrix
 
-<img width="1545" height="694" alt="image" src="https://github.com/user-attachments/assets/a16220ea-c2cd-4ea8-abd3-0d6e21927d3a" />
+
 
 
 ## Classification Report
-<img width="1543" height="414" alt="image" src="https://github.com/user-attachments/assets/eb56e1c9-f8fb-4e9f-8ac7-8ca9dda82bed" />
+
 
 ### New Sample Data Prediction
-<img width="1349" height="603" alt="image" src="https://github.com/user-attachments/assets/99cc584b-ac08-4122-a7e6-563882e3443a" />
+
 
 ## RESULT
 This program has been executed successfully.
