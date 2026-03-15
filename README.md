@@ -37,11 +37,6 @@ Predict and display the class of a single test image with actual and predicted l
 
 
 ## PROGRAM
-
-### Name: Pragatheeshraaj D
-
-### Register Number: 212224230199
-
 ```python
 import torch
 import torch.nn as nn
