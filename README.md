@@ -204,7 +204,7 @@ predict_image(model, image_index=190, dataset=test_dataset)
 ### OUTPUT
 
 ## Training Loss per Epoch
-https://stuck-harlequin-ik0xbna77v.edgeone.app/WhatsApp%20Image%202026-03-15%20at%201.37.52%20PM.jpeg
+file:///C:/Users/admin/OneDrive/Desktop/WhatsApp%20Image%202026-03-15%20at%201.37.52%20PM.jpeg
 ## Confusion Matrix
 
 <img width="1545" height="694" alt="image" src="https://github.com/user-attachments/assets/a16220ea-c2cd-4ea8-abd3-0d6e21927d3a" />
