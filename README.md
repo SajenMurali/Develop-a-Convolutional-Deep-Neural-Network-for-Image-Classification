@@ -3,7 +3,7 @@
 ## AIM
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
-##   PROBLEM STATEMENT AND DATASET
+##   PROBLEM STATEMENT
 Image classification is a fundamental task in computer vision in which an input image is analyzed and assigned to one of several predefined categories based on its visual content. The objective of this experiment is to design, build, and train a Convolutional Neural Network (CNN) using a labeled image dataset to automatically learn hierarchical features such as edges, textures, and complex patterns. The dataset is preprocessed through normalization and augmentation techniques to improve model generalization and performance. The trained model is then evaluated using performance metrics such as accuracy, confusion matrix, and classification report to assess its effectiveness in correctly predicting image classes. This experiment helps in understanding deep learning architectures and their practical application in real-world image recognition tasks.
 
 ## Neural Network Model
